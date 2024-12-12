@@ -1,6 +1,6 @@
 # Yagiz Bayserke's Portfolio
 
-I am a computer sciene major at CSUF and plan on graduating in 2028.
+I am a computer sciene major at CSUF and I plan on graduating in 2028.
 
 ## Favorite CPSC 120L Labs
 
